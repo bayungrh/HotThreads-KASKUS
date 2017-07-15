@@ -1,5 +1,5 @@
 <?php
-header('Content-Type:Application/Json;UTF-8');
+header('Content-Type:Application/Json;charset=utf-8;');
 require_once(__DIR__.'/src/kaskus.php');
 
 $kaskus_ht = new bayyunet\kaskus_api;
