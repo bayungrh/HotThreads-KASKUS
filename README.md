@@ -9,7 +9,7 @@ Insert your API Key in function
 <code>$kaskus_ht->setApiKey('YOUR_API_KEY')</code>
 
 ## How Get Api Key?
-Please submit request to [Link](https://api.bayyu.net/contact)
+Please submit request to [Request Key](https://api.bayyu.net/contact)
 
 ## Example Request
 Json
