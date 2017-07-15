@@ -12,32 +12,32 @@ Insert your API Key in function
 Please submit request to [Request Key](https://api.bayyu.net/contact)
 
 ## Example Request
-Json
+JSON Response:
 <pre>
 {
     "success": true,
     "response_code": 1,
-    "load_time": 0.3809,
+    "load_time": 0.3019,
     "page": 1,
     "total_pages": "2863",
     "hot_threads": [
         {
             "position": 1,
             "top_star": true,
-            "rating": "",
-            "reply": "36",
-            "title": "5 Aktris Indonesia Ini Jadi Idaman Cowok Korea",
-            "detail": "Remaja-remaja Indonesia saat ini banyak sekali yang menggandrungi artis-artis Korea. Mulai dari\u00a0boyband,\u00a0girlband\u00a0hingga pemain dramanya. Dengan tubuh yang langsing,",
-            "link": "https:\/\/kaskus.co.id\/thread\/5967857631e2e6aa768b4571\/5-aktris-indonesia-ini-jadi-idaman-cowok-korea\/?ref=htarchive&med=hot_thread",
-            "img": "https:\/\/s.kaskus.id\/r720x720\/img\/hot_thread\/hot_thread_fbow4xkhu8sh.jpg",
+            "rating": "4.64",
+            "reply": "87",
+            "title": "Analisis Keekonomian Metanol Nuklir Dari Air Laut",
+            "detail": "Tidak, saya tidak bilang bahwa air laut bisa dikonversi menjadi metanol. Sama sekali tidak. Menjadikan air sebagai sumber energi itu mustahil, semustahil manusia melanggar Hukum",
+            "link": "https:\/\/kaskus.co.id\/thread\/596730df9252336c778b4575\/analisis-keekonomian-metanol-nuklir-dari-air-laut\/?ref=htarchive&med=hot_thread",
+            "img": "https:\/\/s.kaskus.id\/r720x720\/img\/hot_thread\/hot_thread_fbow4xjtk0z3.jpg",
             "user": {
-                "id": "babedorr",
-                "profile": "https:\/\/kaskus.co.id\/profile\/9817682\/?ref=htarchive&med=hot_thread",
-                "avatar": "https:\/\/s.kaskus.id\/user\/avatar\/2017\/07\/06\/avatar9817682_1.gif"
+                "id": "dic.thorium",
+                "profile": "https:\/\/kaskus.co.id\/profile\/8485471\/?ref=htarchive&med=hot_thread",
+                "avatar": "https:\/\/s.kaskus.id\/user\/avatar\/2016\/01\/29\/avatar8485471_2.gif"
             },
             "forum": {
-                "name": "The Lounge",
-                "link": "https:\/\/kaskus.co.id\/forum\/21"
+                "name": "Sains & Teknologi",
+                "link": "https:\/\/kaskus.co.id\/forum\/597"
             }
         },
         ..................
